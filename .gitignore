@@ -1,0 +1,9 @@
+*.exe
+*.obj
+*.log
+.vs/
+Debug/
+Release/
+*.suo
+*.user
+*.VC.db
