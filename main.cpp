@@ -19,12 +19,9 @@ T largest(T& one, T& two, T& three) {
 }// endswap
 
 int main() {
-	/*int first = 3;
+	int first = 3;
 	int second = 5;
-	int third = 6;*/
-	char first = 'a';
-	char second = 'B';
-	char third = 'A';
+	int third = 6;
 	cout << "Vslues are =: " << first << " " << second << " " << third << endl;
 	cout << "The largest values is: " << largest(first, second, third) << endl;
 
